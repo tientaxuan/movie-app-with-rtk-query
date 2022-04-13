@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import './detail.scss';
 
@@ -21,7 +21,9 @@ export const Detail = () => {
     cate: category,
     id: id,
   });
-
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  });
   return (
     <>
       {isLoading ? (
