@@ -4,4 +4,4 @@ youtube: https://www.youtube.com/c/TuatTranAnh
 
 his tutorial repo: https://github.com/trananhtuat/react-movie
 
-I just modify and embeb redux/rtk-query to the app
+I just modify and embed redux/rtk-query to the app
